@@ -134,6 +134,55 @@
       "total": 200000,
       "waktu": "2025-07-07T09:35:13.365Z",
       "selesai": true
+    },
+    {
+      "id": "1751881990499",
+      "pelanggan": "apapapapapapa",
+      "items": [
+        {
+          "id": "1",
+          "nama": "Grooming Kucing",
+          "deskripsi": "Mandi, potong kuku, dan pembersihan telinga",
+          "harga": 50000,
+          "durasi": "45 menit",
+          "jumlah": 1
+        },
+        {
+          "id": "2",
+          "nama": "Vaksin Rabies",
+          "deskripsi": "Pemberian vaksin rabies untuk kucing sehat",
+          "harga": 80000,
+          "durasi": "15 menit",
+          "jumlah": 1
+        },
+        {
+          "id": "3",
+          "nama": "Spa Kucing Premium",
+          "deskripsi": "Grooming lengkap + aromaterapi dan relaksasi",
+          "harga": 120000,
+          "durasi": "60 menit",
+          "jumlah": 1
+        },
+        {
+          "id": "4",
+          "nama": "Sterilisasi",
+          "deskripsi": "Operasi sterilisasi (betina/jantan)",
+          "harga": 250000,
+          "durasi": "120 menit",
+          "jumlah": 1
+        },
+        {
+          "id": "5",
+          "nama": "Pemeriksaan Dokter",
+          "deskripsi": "Konsultasi & pemeriksaan umum oleh dokter hewan",
+          "harga": 70000,
+          "durasi": "20 menit",
+          "jumlah": 1
+        }
+      ],
+      "total": 570000,
+      "waktu": "2025-07-07T09:53:10.499Z",
+      "selesai": true
     }
   ]
 }
