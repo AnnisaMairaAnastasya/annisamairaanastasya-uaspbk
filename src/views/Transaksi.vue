@@ -158,8 +158,8 @@
 
 <script setup>
 import { ref, computed, onMounted } from 'vue'
-import { useMenuStore } from '../stores/menuStore'
-import { useTransaksiStore } from '../stores/transaksiStore'
+import { useMenuStore } from '@/stores/menuStore.js'
+import { useTransaksiStore } from '@/stores/transaksiStore.js'
 
 const namaPelanggan = ref('')
 const menuStore = useMenuStore()
